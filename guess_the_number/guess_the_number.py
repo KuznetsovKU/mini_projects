@@ -1,0 +1,3 @@
+import Infrastructure
+
+Infrastructure.game()
